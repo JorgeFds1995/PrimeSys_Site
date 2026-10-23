@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.primesystecnologia.com.br/sitemap.xml
+Sitemap: https://primesystecnologia.totalh.net/sitemap.xml
